@@ -39,7 +39,9 @@ Host github-personal
 #### Test
 ```ssh -T git@github-personal```
 
-
+### ZSH Tools
+https://ohmyz.sh/#install
+```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
 ### VS Code alias in terminal MACOS
 ```bash
